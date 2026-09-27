@@ -63,7 +63,7 @@ Desarrollo soluciones web para organizar información y mejorar procesos. Me int
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:B08D57,100:171717&height=3" />
 
-<h3 align="center">Contactame erikajuliethorozcosanchez@gmail.com. - 3175675074</h3>
+<h3 align="center">Contactame erikajuliethorozcosanchez@gmail.com - 3175675074</h3>
 
 <p align="center">
   <a href="https://github.com/Erika000o?tab=repositories"><img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=D4AF75" /></a>
